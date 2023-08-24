@@ -8,8 +8,7 @@ Hierarchical Labels and Descriptions
 
 ## Repository
 
-[FewX](https://github.com/fanq15/FewX)
-[Simple_CNAPS](https://github.com/peymanbateni/simple-cnaps)
+[FewX](https://github.com/fanq15/FewX), [Simple_CNAPS](https://github.com/peymanbateni/simple-cnaps)
 
 ## Dataset
 
@@ -100,8 +99,8 @@ Note: I'd recommend DF20 (Danish Fungi 2020) dataset ([Paper](https://arxiv.org/
 
 ## Performance Comparison
 
-[COCO](https://paperswithcode.com/sota/few-shot-object-detection-on-ms-coco-10-shot)
-LVIS ([test](https://paperswithcode.com/sota/few-shot-object-detection-on-lvis-v1-0-test) and [val](https://paperswithcode.com/sota/few-shot-object-detection-on-lvis-v1-0-val))
-[iNaturalist 2018](https://paperswithcode.com/sota/image-classification-on-inaturalist-2018)
-CUB-200-2011 ([5-way 1-shot](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5-1) and [5-way 5-shot](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5))
+[COCO](https://paperswithcode.com/sota/few-shot-object-detection-on-ms-coco-10-shot), 
+LVIS ([test](https://paperswithcode.com/sota/few-shot-object-detection-on-lvis-v1-0-test) and [val](https://paperswithcode.com/sota/few-shot-object-detection-on-lvis-v1-0-val)), 
+[iNaturalist 2018](https://paperswithcode.com/sota/image-classification-on-inaturalist-2018), 
+CUB-200-2011 ([5-way 1-shot](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5-1) and [5-way 5-shot](https://paperswithcode.com/sota/few-shot-image-classification-on-cub-200-5)), 
 [NABirds](https://paperswithcode.com/sota/fine-grained-image-classification-on-nabirds)
