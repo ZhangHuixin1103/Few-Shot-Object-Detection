@@ -2,8 +2,6 @@
 
 Hierarchical Labels and Descriptions
 
-[**Google Docs**](https://docs.google.com/document/d/1Oo5Fmn59FydMTINBItJ42xAIAXJJpzrw6AtDYC_J2BY/)
-
 *keywords*: few-shot object detection, hierarchical taxonomy, fine-grained classes, multimodal learning
 
 ## Repository
